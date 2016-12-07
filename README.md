@@ -1,2 +1,4 @@
 # hello-world
-General repository
+
+Hi, this is Kat. New (ish) to github!
+
